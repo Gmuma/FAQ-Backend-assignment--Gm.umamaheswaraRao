@@ -17,7 +17,7 @@ This project is part of an assessment for **FAQ assignment by GM. Umamaheswara R
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone : https://github.com/Gmuma/FAQ-Backend-assignment-GM.-Uma-.git
+git clone : https://github.com/Gmuma/FAQ-Backend-assignment--Gm.umamaheswaraRao
 cd BharatFDFAQ
 
 2️⃣ Install Dependencies
