@@ -102,10 +102,3 @@ Now, the app will be available at http://localhost:3000 🚀
 	•	If any issue occurs, check the logs using:
 
 docker logs <container_id>
-
-👨‍💻 Author
-
-Harshita Verma
-📧 Email: hvharshitaverma2002@gmail.com
-🔗 GitHub: Harshitaaverma
-
