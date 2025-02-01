@@ -1,6 +1,6 @@
 
-#                                                          **FAQ assignment by GM. Umamaheswara Rao **  
-This project is part of an assessment for **BHARATFD**. It is a simple FAQ management system built using **Node.js, Express.js, and Google Translate API**, with data stored in a local JSON file. The system allows users to create FAQs, fetch them, and retrieve translated versions in **Hindi** and **Bengali**.  
+#                                                          **FAQ assignment by GM. Umamaheswara Rao**  
+This project is part of an assessment for **FAQ assignment by GM. Umamaheswara Rao**. It is a simple FAQ management system built using **Node.js, Express.js, and Google Translate API**, with data stored in a local JSON file. The system allows users to create FAQs, fetch them, and retrieve translated versions in **Hindi** and **Bengali**.  
 
 ---
 
@@ -50,8 +50,8 @@ The server will start at: http://localhost:3000
 📌 Body (JSON):
 
 {
-  "question": "What is BharatFD?",
-  "answer": "BharatFD is a financial service company."
+  "question": "What is FAQ?",
+  "answer": "FAQ is a financial service company."
 }
 
 📌 Response:
@@ -105,7 +105,5 @@ docker logs <container_id>
 
 
 Author
-
-**Gm. Umamaheswara Rao**
-
-**gmumamaheswarao@gmail.com**
+Gm. Umamaheswara Rao
+gmumamaheswarao@gmail.com
