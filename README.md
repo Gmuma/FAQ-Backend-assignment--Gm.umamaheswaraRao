@@ -17,7 +17,7 @@ This project is part of an assessment for **BHARATFD**. It is a simple FAQ manag
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/Harshitaaverma/BharatFDFAQ.git
+git clone : https://github.com/Gmuma/FAQ-Backend-assignment-GM.-Uma-.git
 cd BharatFDFAQ
 
 2️⃣ Install Dependencies
@@ -31,7 +31,7 @@ Create a .env file in the root directory and add the following:
 MONGO_URI=mongodb://localhost:27017/faqdb
 REDIS_HOST=localhost
 REDIS_PORT=6379
-GOOGLE_TRANSLATE_API_KEY=your-google-api-key
+GOOGLE_TRANSLATE_API_KEY= Add google translate api key
 
 Replace your-google-api-key with your actual Google Translate API Key.
 
@@ -102,3 +102,7 @@ Now, the app will be available at http://localhost:3000 🚀
 	•	If any issue occurs, check the logs using:
 
 docker logs <container_id>
+
+**Author**
+**Gm. Umamaheswara Rao
+gmumamaheswarao@gmail.com**
