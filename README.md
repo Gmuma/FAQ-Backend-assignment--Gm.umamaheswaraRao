@@ -104,5 +104,7 @@ Now, the app will be available at http://localhost:3000 🚀
 docker logs <container_id>
 
 **Author**
-**Gm. Umamaheswara Rao
-gmumamaheswarao@gmail.com**
+
+**Gm. Umamaheswara Rao**
+
+**gmumamaheswarao@gmail.com**
